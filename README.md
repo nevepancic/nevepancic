@@ -17,9 +17,8 @@ const neve = {
     "BSc Biology, University of Belgrade"
   ],
   otherAlias: "Junior Full Stack Developer",
-  codesIn: ["HTML", "CSS", "Ruby on Rails", "Javascript", "Vue", "React"],
-  toolsUsed: ["Visual Studio Code", "Bootstrap", "Figma", "GitHub", "Heroku"],
-  myProjects: ["Thriftique, second-hand marketplace", "WiseVoyage, seamless trip planner powered by advanced AI APIs"],
+  codesIn: ["HTML", "CSS", "Ruby on Rails", "Javascript", "Vue", "React, Next.js, Typescript"],
+  toolsUsed: ["Visual Studio Code", "Bootstrap", "Figma", "GitHub", "Heroku", Sandgrid, Supabase],
 }; 
 ```
 
